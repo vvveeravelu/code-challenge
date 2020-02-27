@@ -1,0 +1,17 @@
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+Los Angeles,San Francisco
+Trenton,Detroit
+San Diego,Los Angeles
+Chicago,Columbus
+Houston,Phoenix
+Columbus,Indianapolis
+San Antonio,Jacksonville
+Dallas,San Antonio
+
+
+
+
+ 
