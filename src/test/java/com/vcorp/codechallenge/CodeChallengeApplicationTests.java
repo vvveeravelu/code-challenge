@@ -3,6 +3,7 @@ package com.vcorp.codechallenge;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,6 +23,7 @@ import com.vcorp.codechallenge.vo.CityVo;
 
 import java.util.HashMap;
 import java.util.Map;
+@Ignore
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @AutoConfigureWebTestClient
